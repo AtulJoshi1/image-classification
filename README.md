@@ -1,2 +1,2 @@
 # image-classification
-Classify images
+Multi-class classification by Deep Learning approach on image data.
